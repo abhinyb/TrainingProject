@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-22T10:34:54 CST" name="Default suite" finished-at="2023-11-22T10:35:12 CST" duration-ms="17086">
+    <groups>
+    </groups>
+    <test started-at="2023-11-22T10:34:54 CST" name="Default test" finished-at="2023-11-22T10:35:12 CST" duration-ms="17086">
+      <class name="testNGSessions.loginCostcoTest">
+        <test-method signature="loginPageTestCostco()[pri:0, instance:testNGSessions.loginCostcoTest@4c9f8c13]" started-at="2023-11-22T10:34:54 CST" name="loginPageTestCostco" finished-at="2023-11-22T10:35:02 CST" duration-ms="7718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTestCostco -->
+        <test-method signature="loginPageValidation()[pri:0, instance:testNGSessions.loginCostcoTest@4c9f8c13]" started-at="2023-11-22T10:35:02 CST" name="loginPageValidation" finished-at="2023-11-22T10:35:12 CST" duration-ms="9318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageValidation -->
+      </class> <!-- testNGSessions.loginCostcoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
